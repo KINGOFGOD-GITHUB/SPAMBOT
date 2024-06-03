@@ -67,12 +67,12 @@
       },
       "SUDO_USERS": {
         "description": "Sudo users id seprated by space",
-        "value": "",
+        "value": "6124822241",
         "required": false
       },
       "OWNER_ID": {
         "description": "Owner Id",
-        "value": "6348268237",
+        "value": "7123556991",
         "required": true
       },
       "HEROKU_API_KEY": {
